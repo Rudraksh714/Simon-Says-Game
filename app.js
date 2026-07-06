@@ -87,3 +87,5 @@ function reset(){
     gameseq = [];
     userseq = [];
 }
+
+//add new feature
